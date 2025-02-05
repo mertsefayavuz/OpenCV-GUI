@@ -1,0 +1,36 @@
+This guide contains the way of usage of the library OpenCV, which is used for computer visioning, on Python.
+
+Recommended path of this learning program is "C:\". You may move the file "OpenCV Guide" to that location.
+
+You may need to run the following commands on terminal to installation of necessary libraries:
+    For installing by PIP you need to have python on your computer.
+        If you do not, install it from https://www.python.org/downloads/
+    pip install opencv-python
+        If that does not work, try this: pip3 install opencv-python
+    pip install imutils
+        If that does not work, try this: pip3 install imutils
+
+The order of learning path is:
+    1. Displaying Image
+    2. Resizing Image
+    3. Rotating Image
+    4. Affine Transformation Image
+    5. Changing Colour Image
+    6. Histogram Equalizing Image
+    7. Feature Matching Image
+    8. Edge Detector Image
+    9. Filtering Image
+    10. Feature Descriptor for Processing Image
+    11. Shi-Thomasi Corner Detection Image
+    12. Harris Corner Detection Image
+    13. HOG Image
+    14. Living Detector Image
+    15. Human Detector Live
+    16. Motion Detector Live
+    17. Image to Video
+    18. Cube Control AI
+
+Sources might contain information from all domains of www.opencv.org or www.geeksforgeeks.org
+
+Contact:
+    mertsefayavuz@gmail.com
